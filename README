@@ -1,0 +1,17 @@
+The Vim password safe is written by Noah Spurrier
+http://www.vim.org/scripts/script.php?script_id=2012
+
+I wanted to add a small feature to it for my own use, but needed a place to
+save it away where I could find it.
+
+Noah has open sourced this code by releasing all copyright claim to it,
+so I will do the same:
+
+I release all copyright claims. This code is in the public domain. 
+Permission is granted to use, copy modify, distribute, and sell this 
+software for any purpose. I make no guarantee about the suitability of this 
+software for any purpose and I am not liable for any damages resulting from 
+its use. Further, I am under no obligation to maintain or extend this 
+software. It is provided on an 'as is' basis without any expressed or 
+implied warranty. 
+
